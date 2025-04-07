@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+.env
+*.DS_Store
+loan_status_model.pkl

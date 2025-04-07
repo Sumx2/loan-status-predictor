@@ -1,0 +1,13 @@
+ipykernel
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+scipy
+statsmodels
+tensorflow
+keras
+streamlit
+joblib
+model_selection
